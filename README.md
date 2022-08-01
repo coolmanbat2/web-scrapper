@@ -4,7 +4,7 @@ A simple image scrapper that allows users to scrape images via Google Images.
 
 ## Setup
 
-1) Clone the repo
+1) Clone the repo:
 ``
 git clone https://github.com/coolmanbat2/web-scrapper.git
 ``
@@ -12,7 +12,7 @@ git clone https://github.com/coolmanbat2/web-scrapper.git
 ``
 pip install -r requirements.txt
 ``
-3) Run the app
+3) Run the app:
 ``
 python3 scrapper.py
 ``
