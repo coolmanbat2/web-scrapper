@@ -6,7 +6,7 @@ A simple image scrapper that allows users to scrape images via Google Images.
 
 1) Clone the repo
 ``
-git clone <link of repo>
+git clone https://github.com/coolmanbat2/web-scrapper.git
 ``
 2) Install all the required libraries using:
 ``
