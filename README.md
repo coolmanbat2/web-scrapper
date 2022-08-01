@@ -4,6 +4,8 @@ A simple image scrapper that allows users to scrape images via Google Images.
 
 ## Setup
 
+0) You MUST HAVE ```chromedriver``` AND ```Google Chrome``` INSTALLED ON YOUR MACHINE.
+
 1) Clone the repo:
 ``
 git clone https://github.com/coolmanbat2/web-scrapper.git
